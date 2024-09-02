@@ -76,8 +76,6 @@ Feel free to submit issues or pull requests if you find any bugs or have suggest
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-```
 
-### **Özet:**
 
-Bu README dosyası, betiğin nasıl çalıştığını, gerekli kütüphaneleri nasıl kuracağınızı ve betiği nasıl kullanacağınızı ayrıntılı bir şekilde açıklar. 
+
